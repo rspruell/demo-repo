@@ -7,3 +7,7 @@ adding more text to the readme file.
 
 adding another line!!!
 
+# Local stuff
+
+1. Open index.html in your browswer
+
